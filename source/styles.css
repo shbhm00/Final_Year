@@ -80,6 +80,8 @@ img{
         height: 40vh;
         margin-bottom: 20px;
         margin-top: 25%;
+        margin-left: 5px;
+        margin-right: 5px;
     }
     .upload_button{width: 200px; margin-top: 30px; text-align: center;}
     .input{padding: 3px; width: 120px; margin-top: 5px; text-align: center;}
